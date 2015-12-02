@@ -1,9 +1,9 @@
 # What is pcDuino8 Uno?
 pcDuino8 Uno is a high performance, cost effective single board computer. It runs operation systems such as Ubuntu Linux and Android. pcDuino8 Uno has HDMI interface to output its graphic desktop screen. It could support multi-format 1080p 60fps video decoder and 1080p 30fps H.265/HEVC  video encoder with its built-in hardware video processing engine.   It targets specially the fast growing demands from the open source community. pcDuino8 Uno provides easy-to-use tool chains and is compatible with the popular Arduino ecosystem such as Arduino Shields.
 
-![front](/images/pcduino8_uno_1.jpg)
+![front](../images/pcduino8_uno_1.jpg)
 
-![back](/images/pcduino8_uno_2.jpg)
+![back](../images/pcduino8_uno_2.jpg)
 
 ## Hardware Specifications
 
@@ -77,4 +77,4 @@ pcDuino8 Uno is a high performance, cost effective single board computer. It run
 ## Arduino extension interface
 If you want to program Arduino extension interface, you should know the pin map shown as follows:
 
-![](/images/io.png)
+![](../images/io.png)
