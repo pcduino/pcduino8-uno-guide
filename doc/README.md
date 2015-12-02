@@ -1,8 +1,9 @@
 # pcDuino8 Uno Get Started Kit User Guide
 
 This user guide has English and Chinese version, and supports gitbook to compile as a ebook.
-[English](en/README.md)
-[中文](zh/README.md)
+
+### [English](en/)
+### [中文](zh/)
 
 If you want to generate a book, take the following steps.
 
