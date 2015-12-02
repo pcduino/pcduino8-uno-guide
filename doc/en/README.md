@@ -22,7 +22,7 @@ In this user guide, we are going to introduce how to quick start with pcDuino8 U
 * 8G TF card x 1
 
 ### 2. Software
-We has created a [Ubuntu14.04 image file for pcDuino8 Uno](http://www.linksprite.com/image-for-pcduino8-uno/) Get Started Kit, which has pre-installed the following things:
+We has created a [Ubuntu14.04 image file for pcDuino8 Uno](https://s3.amazonaws.com/pcduino/Images/pcduino8/pcDuino8Uno/pcduino8_ubuntu14.04_20151121_preinstalled_opencv2.4.11.7z) Get Started Kit, which has pre-installed the following things:
 * git
 * vim
 * Python 2.7
