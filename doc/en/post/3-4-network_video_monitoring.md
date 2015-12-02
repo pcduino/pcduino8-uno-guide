@@ -96,7 +96,7 @@ First to get the pcDuino8 Uno IP address, you should open a Linux terminal and r
 
 Now, you can watch the video from your webcam via network.
 
-![camera](/images/camera.png)
+![camera](../images/camera.png)
 
 More configuration parameters of motion ,you can check [here][1]。
 

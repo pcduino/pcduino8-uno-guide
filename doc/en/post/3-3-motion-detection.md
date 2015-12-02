@@ -3,7 +3,7 @@
 ## Introduction
 [Adrian Rosebrock][1] posted a blog , named " [Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox][2]". This project is very cool, it can take a picture if there are things moving , then upload to Dropbox.
 
-![home surveillance](/images/pi_home_surveillance_animated.gif)
+![home surveillance](../images/pi_home_surveillance_animated.gif)
 
 I can't help thinking about how to port this project onto pcDuino8 Uno. Yes, this is not very hard!
 
@@ -12,7 +12,7 @@ I can't help thinking about how to port this project onto pcDuino8 Uno. Yes, thi
   - pcDuino8 Uno
   - USB UVC camera(also called as webcam)
 
-![](/images/cam_p8.png)
+![](../images/cam_p8.png)
 
 * Software
   - Ubuntu 14.04
@@ -34,7 +34,7 @@ the webcam could be recognized as /dev/video0.
 ```bash
 $ python motion-detector.py -c conf.json
 ```
-![](/images/motion.png)
+![](../images/motion.png)
 
 If you use different types of webcams or want to change the interval time to save a picture, and so on, you should modify these parameters in **conf.json**.
 

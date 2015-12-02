@@ -19,7 +19,7 @@ Sure, and it is very easy!
 ### 1. Connect
 To make it simple, I just connect GPIO0 to GND via a Dupont line. Insert or pull out the line to simulate pressing or releasing a button.
 
-![](/images/camera-diy.png)
+![](../images/camera-diy.png)
 
 Note: you should know the status that described as the following table.
 

@@ -18,11 +18,11 @@ Plug TF Card Reader into Windows PC and open Win32DiskImager as administrator.
 - Click the **write** button.
 - It will say **Write Successful** at the end.
 
-![](/images/win32disk.png)
+![](../images/win32disk.png)
 
 ## Run
 
-![](/images/pcduino8-connection.png)
+![](../images/pcduino8-connection.png)
 
 - Plug the TF card into pcDuino8 Uno
 - Connect 5V DC power input via Micro USB port

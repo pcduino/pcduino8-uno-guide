@@ -31,7 +31,7 @@ Note: **Make sure the webcam is recognized as /dev/video0**
 
 I use my mobile phone to show a picture with many faces, the detection result is not bad, although it shows that there are six faces, only five faces are true. Please check the following picture.
 
-![](/images/face_detection.png)
+![](../images/face_detection.png)
 
 ## Understand the source code
 I add some comments in the source code to help understanding the source code.
