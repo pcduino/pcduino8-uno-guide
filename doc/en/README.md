@@ -27,7 +27,7 @@ We has created a [Ubuntu14.04 image file for pcDuino8 Uno Get Started Kit](https
 * git
 * vim
 * Python 2.7
-* OpenCV 2.11
+* OpenCV 2.4.11
 * motion
 * guvcview
 * ffmpeg

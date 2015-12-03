@@ -13,7 +13,7 @@ pcDuino8 Uno Get Started Kit是基于pcDuino8 Uno的一个入门套件，结合�
 * git
 * vim
 * Python 2.7
-* OpenCV 2.11
+* OpenCV 2.4.11
 * motion
 * guvcview
 * ffmpeg
