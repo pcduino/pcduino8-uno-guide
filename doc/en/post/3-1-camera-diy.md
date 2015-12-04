@@ -37,8 +37,8 @@ $ python camera.py
 ```
 * The window show the video from webcam in realtime.
 * Pull out the Dupont line from GND port and insert into GND port again.
-* The photo will be saved to the current dirctory.
-*View the photo.
+* The photo will be saved to the current directory.
+* View the photo.
 ```
 $ gpicview
 ```
