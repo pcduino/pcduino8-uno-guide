@@ -21,7 +21,7 @@ From the window top left, there are different types of control block, especially
 
 Now let's start to blink the LED.
 
-<img src="../images/scratch-blink.png" title="script" width="400">
+<img src="../images/script.png" title="script" width="400">
 
 Based on the given script showed in the picture above, take the following steps to edit this script:
 * Select the **Control** and drag a **When Green Flag clicked** block into the Scripts area.
