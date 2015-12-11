@@ -10,7 +10,8 @@ This tutorial will tell you how to use Scratch to program GPIOs on pcDuino8 Uno.
 
 ## Steps
 ### 1. Open Scratch
-Click start menu and select **Programming --> Scratch**
+Click start menu and select **Programming --> Scratch**.
+
 ![](../images/scratch.png)
 
 ### 2. Design the Scripts
@@ -19,7 +20,8 @@ The program in Scratch is called script, we use it to tell pcDuino how to contro
 From the window top left, there are different types of control block, especially the **Hardware** which collects the control block of hardware related things, like setting GPIO as input or output, setting the given pin as high level, and so on. As to **Control**, it has logic control, like start, if/else, wait and so on.
 
 Now let's start to blink the LED.
-<img src="../images/scratch-blink.png" title="script" width="400")
+
+<img src="../images/scratch-blink.png" title="script" width="400">
 
 Based on the given script showed in the picture above, take the following steps to edit this script:
 * Select the **Control** and drag a **When Green Flag clicked** block into the Scripts area.
