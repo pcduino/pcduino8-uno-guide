@@ -39,6 +39,7 @@ Make sure you understand the functions of each pin. As to this USB Serial cable,
 </table>
 
 ![](../images/uart.png)
+
 Connect PC and pcDuino8 uno with USB Serial cable.
 
 * **White line** <---> UART-RXD
