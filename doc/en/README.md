@@ -2,9 +2,9 @@
 
 pcDuino is pin to pin compatible with Arduino so that existing Arduino shields can be installed on pcDuino with a simple translation board (T-board). By being compatible with Arduino ecosystem, pcDuino is a platform that bridges the power of open software linux and the power of open hardware.
 
-Recently, LinkSprite released a powerful mini PC platform **pcDuino8 Uno** which is powered by Allwinner H8 SoC chip. It has 8 Cortex-A7 ARM cores whose operating frequency is up to 2.0GHz.
+Recently, LinkSprite released a powerful mini PC platform pcDuino8 Uno which is powered by Allwinner H8 SoC chip. It has 8 Cortex-A7 ARM cores whose operating frequency is up to 2.0GHz.
 
-In this user guide, we are going to introduce how to quick start OpenCV computer vision and how to use this kit to do lost of fun stuff including but not limited to the follows:
+Base on this powerful platform, we have constructed a new kit called OpenCV computer vision kit which users can use to quick start OpenCV computer vision and do lost of fun stuff including but not limited to the follows:
 * Learn or teach programming
 * Learn Ubuntu Linux
 * Work with hardware part
@@ -13,6 +13,8 @@ In this user guide, we are going to introduce how to quick start OpenCV computer
 * DIY a simple camera
 * Motion detection
 * Face detection
+
+![](images/opencv-computer-vision-kit.png)
 
 ## Specifications
 
@@ -37,8 +39,8 @@ We has created a [Ubuntu14.04 image file for OpenCV computer vision kit](https:/
 ## More information
 If you want to get more documents and demos' source code for pcDuino8 Uno, please check the following websites.
 
-### 1. [pcDuino8 Uno Guide](https://github.com/pcduino/pcduino8-uno-guide)
-This is the github repository collecting documents and demos about pcDuino8 Uno and let user quick start on pcDuino8 Uno.
+### 1. [OpenCV Computer Vision Kit Guide](https://github.com/pcduino/pcduino8-uno-guide)
+This is the github repository collecting documents and demos about OpenCV computer vision kit and let user quick start on OpenCV computer vision.
 Use git to download:
 ```
 $ git clone https://github.com/pcduino/pcduino8-uno-guide
