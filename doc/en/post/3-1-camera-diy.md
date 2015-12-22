@@ -6,8 +6,7 @@ Sure, and it is very easy!
 
 ## Pre-requisites:
 * Hardware
- - pcDuino8 Uno
- - USB UVC camera
+ - OpenCV computer vision kit
 
 * Software
  - Ubuntu 14.04
