@@ -5,7 +5,7 @@ pcDuino8 Uno+USB摄像头+开源工具，几分钟搞定远程视频监控！
 
 ## 准备
 **硬件**
-- pcDuino8 Uno Get Started Kit
+- OpenCV computer vision kit
 
 **软件**
 - 预安装了OpenCV的Ubuntu 14.04

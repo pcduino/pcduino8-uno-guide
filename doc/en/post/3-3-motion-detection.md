@@ -9,8 +9,7 @@ I can't help thinking about how to port this project onto pcDuino8 Uno. Yes, thi
 
 ## Pre-requisites:
 * Hardware
-  - pcDuino8 Uno
-  - USB UVC camera(also called as webcam)
+  - OpenCV computer vision kit
 
 ![](../images/cam_p8.png)
 

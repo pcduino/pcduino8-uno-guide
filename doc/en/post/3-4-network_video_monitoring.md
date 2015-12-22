@@ -6,9 +6,7 @@ Let's start.
 
 ## Prerequisites
 ### 1. Hardware
-
-- pcDuino8 Uno
-- USB UVC Webcam
+- OpenCV computer vision kit 
 
 ### 2. Software
 - motion

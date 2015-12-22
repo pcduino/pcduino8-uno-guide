@@ -1,6 +1,6 @@
 # How to use Webcam
 
-In pcDuino8 Uno Get Started Kit, there is a mini webcam for robot to stream video in real time. It is UVC and can be used with pcDuino8 Uno without installing Linux driver. Many software in Ubuntu can capture the stream video from this webcam, like guvcview, VLC, ffmpeg, and OpenCV.
+In OpenCV computer vision kit, there is a mini webcam for robot to stream video in real time. It is UVC and can be used with pcDuino8 Uno without installing Linux driver. Many software in Ubuntu can capture the stream video from this webcam, like guvcview, VLC, ffmpeg, and OpenCV.
 
 <img src="../images/webcam.jpg" title="captured screen" width="400">
 

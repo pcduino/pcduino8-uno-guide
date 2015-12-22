@@ -1,6 +1,6 @@
 # 如何使用网络摄像头
 
-在pcDuino8 Uno Get Started Kit中自带了一个迷你网络摄像头，插入pcDuino8 Uno即可使用，无需手动安装驱动。在Ubuntu下抓取视频流的工具软件有很多，guvcview、VLC、ffmpeg和OpenCV等。
+在OpenCV computer vision kit中自带了一个迷你网络摄像头，插入pcDuino8 Uno即可使用，无需手动安装驱动。在Ubuntu下抓取视频流的工具软件有很多，guvcview、VLC、ffmpeg和OpenCV等。
 <img src="../images/webcam.jpg" title="captured screen" width="300">
 
 本教程将介绍如何使用guvcview 播放摄像头的视频流。

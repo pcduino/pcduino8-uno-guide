@@ -8,14 +8,13 @@ OpenCV uses machine learning algorithms to search for faces within a picture, an
 
 OpenCV uses [cascades](http://docs.opencv.org/modules/objdetect/doc/cascade_classification.html) to implement face detection. Though the theory seems complicated, in practice it is very easy to use.
 
-Thanks to Shantnu Tiwari who give us an example that just has several  lines of python code to implement face detection using a webcam.
+Thanks to Shantnu Tiwari who give us an example that just has several lines of python code to implement face detection using a webcam.
 
 This post , I follow his steps to do face detection on pcDuino8 Uno.
 
 ## Pre-requisites:
 * Hardware
- - pcDuino8 Uno
- - USB UVC camera
+ - OpenCV computer vision kit
 
 * Software
  - Ubuntu 14.04

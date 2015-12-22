@@ -1,13 +1,14 @@
-# Introduction of pcDuino8 Uno Get Started Kit
+# Introduction of OpenCV computer vision kit
 
 pcDuino is pin to pin compatible with Arduino so that existing Arduino shields can be installed on pcDuino with a simple translation board (T-board). By being compatible with Arduino ecosystem, pcDuino is a platform that bridges the power of open software linux and the power of open hardware.
 
 Recently, LinkSprite released a powerful mini PC platform **pcDuino8 Uno** which is powered by Allwinner H8 SoC chip. It has 8 Cortex-A7 ARM cores whose operating frequency is up to 2.0GHz.
 
-In this user guide, we are going to introduce how to quick start with pcDuino8 Uno and how to use pcDuino8 Uno Get Started Kit to do lost of fun stuff including but not limited to the follows:
+In this user guide, we are going to introduce how to quick start OpenCV computer vision and how to use this kit to do lost of fun stuff including but not limited to the follows:
 * Learn or teach programming
 * Learn Ubuntu Linux
 * Work with hardware part
+* OpenCV computer vision
 * Implement a network video monitoring system
 * DIY a simple camera
 * Motion detection
@@ -23,7 +24,7 @@ In this user guide, we are going to introduce how to quick start with pcDuino8 U
 
 ### 2. Software
 
-We has created a [Ubuntu14.04 image file for pcDuino8 Uno Get Started Kit](https://s3.amazonaws.com/pcduino/Images/pcduino8/pcDuino8Uno/pcduino8_ubuntu14.04_20151121_preinstalled_opencv2.4.11.7z), which has pre-installed the following things:
+We has created a [Ubuntu14.04 image file for OpenCV computer vision kit](https://s3.amazonaws.com/pcduino/Images/pcduino8/pcDuino8Uno/pcduino8_ubuntu14.04_20151121_preinstalled_opencv2.4.11.7z), which has pre-installed the following things:
 * git
 * vim
 * Python 2.7

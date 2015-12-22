@@ -4,7 +4,7 @@
 
 ## 准备
 * 硬件
- - pcDuino8 Uno Get Started Kit
+ - OpenCV computer vision kit
 
 * 软件
  - 预装了OpenCV的Ubuntu 14.04

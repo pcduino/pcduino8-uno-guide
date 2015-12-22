@@ -2,7 +2,7 @@
 If you want to get more documents and demos' source code for pcDuino8 Uno, please check the following websites.
 
 ### 1. [pcDuino8 Uno Guide](https://github.com/pcduino/pcduino8-uno-guide)
-This is the github repository collecting documents and demos about pcDuino8 Uno and let user quick start on pcDuino8 Uno.
+This is the github repository collecting documents and demos about pcDuino8 Uno and let user quick start OpenCV computer version on pcDuino8 Uno.
 Use git to download:
 ```
 $ git clone https://github.com/pcduino/pcduino8-uno-guide

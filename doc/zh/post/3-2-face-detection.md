@@ -1,4 +1,4 @@
-# 使用pcDuino8 Uno Get Started Kit实现人脸识别
+# 使用OpenCV computer vision kit实现人脸识别
 
 ## 介绍
 
@@ -8,7 +8,7 @@ OpenCV是用于机器视觉的最流行的函数库，拥有C++, C, Python 和 J
 
 ## 准备
 * 硬件
- - pcDuino8 Uno Get Started Kit
+- OpenCV computer vision kit
 
 * 软件
  - 预装了OpenCV的Ubuntu 14.04

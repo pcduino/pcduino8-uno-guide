@@ -9,7 +9,7 @@
 
 ## 准备:
  **硬件**
-- pcDuino8 Uno Get Started Kit
+- OpenCV computer vision kit
 
 ![](../images/cam_p8.png)
 
